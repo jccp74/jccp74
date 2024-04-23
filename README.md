@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil de Programação 😁
+## Bem-vindo(a) ao meu perfil de Desenvolvedor 😁
 
  <div>
    <a href="https://github.com/jccp74">
